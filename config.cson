@@ -1,0 +1,15 @@
+"*":
+  "autocomplete-python":
+    caseInsensitiveCompletion: false
+    extraPaths: "$PROJECT\\venv\\Lib\\site-packages"
+    pythonPaths: "$PROJECT\\venv\\Scripts\\python"
+    suggestionPriority: 2
+  core:
+    telemetryConsent: "no"
+  editor:
+    fontSize: 12
+  "exception-reporting":
+    userId: "6a66325e-9b93-441d-9744-b34f69a19ffd"
+  github:
+    remoteFetchProtocol: "ssh"
+    sourceRemoteName: "master"
